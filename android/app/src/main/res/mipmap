@@ -1,0 +1,10 @@
+mipmap-mdpi/
+    ic_launcher.png (48x48 بكسل)
+mipmap-hdpi/
+    ic_launcher.png (72x72 بكسل)
+mipmap-xhdpi/
+    ic_launcher.png (96x96 بكسل)
+mipmap-xxhdpi/
+    ic_launcher.png (144x144 بكسل)
+mipmap-xxxhdpi/
+    ic_launcher.png (192x192 بكسل)

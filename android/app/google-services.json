@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929903129465",
+    "project_id": "testnoti-af1d7",
+    "storage_bucket": "testnoti-af1d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929903129465:android:c9b9db2c6c48d8446f35a8",
+        "android_client_info": {
+          "package_name": "com.example.testnoti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrmAcw_4ohia6SKJoeZ3B5Uk1jZAVS_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
